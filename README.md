@@ -10,7 +10,7 @@ Scource code is available.You can compile it or exe file for instant run.
 ## Usage
 
 ```cpp
-std::string Bin;
+        std::string Bin;
 	std::cin>>Bin;
 	std::cout<<std::endl;
 ```
